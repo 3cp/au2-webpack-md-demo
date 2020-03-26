@@ -1,5 +1,13 @@
 # au2-webpack
 
+In webpack.config.js, markdown-loader before au2 conventions.
+
+You can use md as if they are html files. You can mix html files with md files in the same project.
+
+Html inside markdown is supported by markdown standard.
+
+-----
+
 This project is bootstrapped by [aurelia/new](https://github.com/aurelia/new).
 
 ## Start dev web server
